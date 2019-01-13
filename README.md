@@ -11,6 +11,7 @@
 ## 协作工具
 
 - zotero: 沉淀项目资料 https://www.zotero.org/groups/2273970/onlineedutoolkit  （请各位组员申请加入）
+- 腾讯文档：储存表格、数据等 https://docs.qq.com/sheet/DT1N4eFFHc0NZaGdH?tab=BB08J2
 - 本仓库：沉淀输出，异步讨论
 - 微信群：即时讨论
 
